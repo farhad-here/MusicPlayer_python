@@ -2,6 +2,15 @@
 <p>🗃️It does not have a great UI and UX</p>
 
 ----
+## 🥇Manual
+first create a venv
+then activate
+then install these
+
+- typing
+- pygame
+
+then finally you can use
 
 ## 🎨UI
 <div align="center" style="border-radius: 50%">
@@ -17,3 +26,4 @@
 - Python
 - Pygame
 - Tkinter
+- typing 
