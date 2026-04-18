@@ -1,16 +1,14 @@
-# 🎼It is an old Music Player project for my university.
-<p>🗃️It does not have a great UI and UX</p>
+# 🎼A music player project with tkinter.
 
 ----
 ## 🥇Manual
-first create a venv
-then activate
-then install these
+-> create a venv
+-> activate it
+-> install these
 
-- typing
-- pygame
+ - typing
+ - pygame
 
-then finally you can use
 
 ## 🎨UI
 <div align="center" style="border-radius: 50%">
