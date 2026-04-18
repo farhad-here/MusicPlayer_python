@@ -2,8 +2,8 @@
 
 ----
 ## 🥇Manual
--> create a venv
--> activate it
+-> create a venv <br>
+-> activate it <br>
 -> install these
 
  - typing
